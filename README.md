@@ -25,7 +25,7 @@ that the sensor is unavailable.
 
 ```sh
 make
-./traystats
+./traystats&
 ```
 
 The process must run inside an X11 session with `DISPLAY` set. On systems
